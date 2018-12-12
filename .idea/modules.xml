@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visca.iml" filepath="$PROJECT_DIR$/.idea/modules/visca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visca_main.iml" filepath="$PROJECT_DIR$/.idea/modules/visca_main.iml" group="visca" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/visca_test.iml" filepath="$PROJECT_DIR$/.idea/modules/visca_test.iml" group="visca" />
+    </modules>
+  </component>
+</project>
